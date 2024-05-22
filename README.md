@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Adean228
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
-
-<!---
-Adean228/Adean228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Escrevendo código para mudar o mundo, um commit de cada vez.
+💡 Fazendo bugs desaparecerem desde [ano de início da sua carreira].
+🧙‍♂️ Transformando café em código funcional.
+🤓 100% humano, 0% código-fonte gerado por IA (eu acho...).
