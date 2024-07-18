@@ -13,7 +13,8 @@ Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por tecnologi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adean228&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
-- [linkedin](adean-salles)
+- [linkedin](www.linkedin.com/in/adean-salles)
+
 
 - [E-mail](adeansallessilva@gmail.com)
 
