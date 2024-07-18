@@ -17,4 +17,10 @@ Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por tecnologi
 
 - [E-mail](adeansallessilva@gmail.com)
 
+## Obrigado pela visita!
+
+Se você gostou do que viu e quer colaborar em algum projeto ou apenas bater um papo sobre tecnologia, não hesite em entrar em contato. Estou sempre aberto a novas oportunidades e conexões.
+
+Tenha um ótimo dia! 😄
+
 
