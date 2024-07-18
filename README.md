@@ -2,13 +2,19 @@
 
 Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** HTML, CSS, JavaScript, Python, etc.
-- **Ferramentas:** Git, VSCod, .
+
+## 🚀 Minhas Habilidades
+![HTML](https://img.shields.io/badge/HTML-Expert-green)
+![CSS](https://img.shields.io/badge/CSS-Expert-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+
+## 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adean228&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adean228&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
-- [LinkedIn](www.linkedin.com/in/adean-salles-23aa621a2/)
-- [E-mail](adeansalles@gmail.com)
+- [linkedin](www.linkedin.com/in/adean-salles-23aa621a2)
 
-![GitHub Stats](https://https://github.com/Adean228/Adean228/edit/main/README.md)
+- [E-mail](adeansallessilva@gmail.com)
+
 
