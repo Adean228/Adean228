@@ -1,6 +1,6 @@
 # Olá, eu sou Adean!
 
-Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
+Bem-vindo ao meu perfil do GitHub. Sou um estudante programador web apaixonado por tecnologia e sempre em busca de novos desafios.
 
 
 ## 🚀 Minhas Habilidades
