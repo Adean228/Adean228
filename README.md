@@ -7,6 +7,8 @@ Bem-vindo ao meu perfil do GitHub. Sou um estudante programador web apaixonado p
 ![HTML](https://img.shields.io/badge/HTML-Expert-green)
 ![CSS](https://img.shields.io/badge/CSS-Expert-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+
 
 ## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adean228&layout=compact&theme=radical)
