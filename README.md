@@ -20,7 +20,7 @@ adean-salles
 )
 
 
-- [E-mail](adeansallessilva@gmail.com)
+[E-mail](adeansallessilva@gmail.com)
 
 ## Obrigado pela visita!
 
