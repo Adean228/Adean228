@@ -17,7 +17,6 @@ Bem-vindo ao meu perfil do GitHub. Sou um estudante programador web apaixonado p
 ## 📫 Como me encontrar
 - [linkedin](www.linkedin.com/in/
 adean-salles
-Nome fantasia da URL
 )
 
 
